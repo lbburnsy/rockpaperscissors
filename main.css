@@ -2,7 +2,7 @@
 
 .background {
     width: 100%;
-    height: 95vh;
+    height: 640px;
     background-image: linear-gradient(to bottom right, #471602, #DDA188);
     display: flex;
     justify-content: center;
